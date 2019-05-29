@@ -25,7 +25,7 @@ Create a file for each workshop, e.g. `1-warm-up.js` and add your solution to th
 To run your solution,
 
 ```
-npm run exe
+npm run exe -- <filename>
 ```
 
 To verify your solution,
