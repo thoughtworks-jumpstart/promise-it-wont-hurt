@@ -1,0 +1,21 @@
+{
+  "name": "promise-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "promise-it-wont-hurt",
+    "menu": "promise-it-wont-hurt",
+    "help": "promise-it-wont-hurt help",
+    "current": "promise-it-wont-hurt current",
+    "instructions": "promise-it-wont-hurt print",
+    "exe": "promise-it-wont-hurt run",
+    "verify": "promise-it-wont-hurt verify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "promise-it-wont-hurt": "^1.1.3"
+  }
+}
